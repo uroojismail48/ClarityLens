@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="claritylens_icon.svg" width="72" height="72" alt="ClarityLens logo" />
+
 
 # ClarityLens
 
@@ -37,13 +37,6 @@ Built with React on the frontend and powered by the [PicWish](https://picwish.co
 - Node.js (v16 or later)
 - A PicWish API key ([get one here](https://picwish.com/photo-enhancer-api))
 
-### Installation
-
-```bash
-git clone https://github.com/your-username/claritylens.git
-cd claritylens
-npm install
-```
 
 ### Environment setup
 
@@ -53,20 +46,14 @@ Create a `.env` file in the project root:
 REACT_APP_PICWISH_API_KEY=your_api_key_here
 ```
 
-### Run locally
-
-```bash
-npm start
-```
 
 The app will be available at `http://localhost:3000`.
 
 ## Usage
 
 1. Upload an image from your device
-2. Click **Enhance**
-3. Preview the enhanced result
-4. Download the improved image
+2. Preview the enhanced result
+3. Download the improved image
 
 
 
