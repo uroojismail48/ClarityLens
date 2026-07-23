@@ -37,18 +37,6 @@ Built with React on the frontend and powered by the [PicWish](https://picwish.co
 - Node.js (v16 or later)
 - A PicWish API key ([get one here](https://picwish.com/photo-enhancer-api))
 
-
-### Environment setup
-
-Create a `.env` file in the project root:
-
-```
-REACT_APP_PICWISH_API_KEY=your_api_key_here
-```
-
-
-The app will be available at `http://localhost:3000`.
-
 ## Usage
 
 1. Upload an image from your device
